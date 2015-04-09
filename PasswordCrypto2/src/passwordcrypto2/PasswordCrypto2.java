@@ -49,4 +49,8 @@ public class PasswordCrypto2 extends Application {
         launch(args);
     }
     
+    public void test() {
+        System.out.println("Hej");
+    }
+    
 }
